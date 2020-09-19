@@ -1,0 +1,6 @@
+data_path:
+    train_data:'C:/Users/User/Desktop/Greyatom/ga tutorial/data/train'
+    
+    test_data:'C:/Users/User/Desktop/Greyatom/ga tutorial/data/test'
+    
+sentence_num:3

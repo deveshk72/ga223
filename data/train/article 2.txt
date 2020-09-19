@@ -1,0 +1,40 @@
+
+How tech can help us create a better world
+
+
+Self-driving vehicles, intelligent virtual assistants and industrial robots are no longer figments of sci-fi movie plots. They’ve officially left the movie theatres and begun wandering onto our roads, into our living rooms and packing our food deliveries.
+Technological advancements and innovations have improved our world in many ways, but how can we take this one step further, and start using these technologies to tackle some of the global challenges we’re facing today? At Ericsson ONE, we believe that by asking the right questions, we can find the right answers.  
+How can we transport goods and people more efficiently? 
+Joakim Formo, Strategic Design Director at Ericsson ONE, believes new technology will make it possible to improve how we transport goods and people.
+“Creating more efficient, cleaner and safer transport solutions is a major priority for cities as well as business and industries,” says Joakim, who poses the following considerations:
+
+
+Major cities may soon find it viable to ban large trucks, or even cars, and only allow small emission-free transport vehicles that are not permitted to run with empty loads.
+How might it become rational for someone like Amazon to vigorously optimize its delivery-chain for minimum CO2-footprint and good health, as they do for speed of delivery today?
+The basic requirements to make such new strategies possible from a technology perspective are already here – 5G in combination with machine learning unlocks scenarios like this, and many more.
+
+“New technology such as 5G and information communications technology (ICT) is ready to be used for addressing urgent environmental and societal challenges”, adds Joakim.
+
+"The technology is available, the hard part is to establish new ideas and changing the ways we do things." 
+
+What if mobility systems were designed with equal rights in mind?
+Anna Viggedal, Design Lead at Ericsson ONE, asks the question: “What if mobility systems were designed for equal rights for everyone, and came with a small CO2 footprint?”
+
+Mobility, in essence, is about providing people with access to something – whether this access be granted virtually or by physically moving something.
+
+“In an urban context, this raises questions around digital public spaces. Do they exist today? And how can we design them to be equally safe and accessible for everyone, instead of increasing divides?” says Anna.
+
+A range of technologies can enable this. Data and connectivity are central to this idea, not only cellular technologies like 5G, but also social technologies. Remote access technologies and mixed reality are the most obvious, and Anna believes we’ll begin to see mixed reality tech become more mainstream and affordable over the coming years. 
+
+Anna’s background is in industrial design engineering and strategic product design, and she’s interested in exploring how virtual behaviors are currently affecting our concept of physical space and vice versa.
+
+What if solving the world’s most pressing issues was our starting point?
+Marcus Gårdman, Lead Design Technologist at Ericsson ONE, asks: “What if the UN’s sustainable development goals were actually a blueprint for the future of telecoms?”
+
+Over the years it’s become increasingly apparent that the ICT industry (and the telecom industry in particular) has the potential to create a strong positive impact on the world and its inhabitants – if we take an empathetic, humble and responsible approach.
+
+“A fundamental starting point for this is to ensure that we are addressing real problems and opportunities. Given the state of the world (even pre-COVID-19), what really matters to a huge amount of people today are things like eliminating poverty, creating gender equality and addressing climate change – all of which are encapsulated in the sustainable development goals,” says Marcus.
+
+Broad as they are, Marcus believes these goals can be used as starting points – or guidelines – for further inquiry, allowing us to identify the role of ICT and telecoms when it comes to addressing the world’s biggest challenges.
+
+“The sustainable development goals can be used not just as a compass, but to ignite innovation,” he adds.

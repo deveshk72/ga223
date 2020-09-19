@@ -1,0 +1,59 @@
+Paytm back on Google Play store after being pulled down briefly
+
+Google on Friday restored the Paytm app on its Play store after removing it for a few hours for violating its policy on sports betting activities.\
+
+The app was back on the Google Play store on Friday evening after the Softbank-backed Paytm removed the 'cashback' feature from a recently-launched game on the application.
+
+"Update: And we're back!," Paytm said in a tweet.
+
+On Friday morning, Google removed the Paytm app -- which facilitates use of wallet and payments bank services -- from the Play store.
+
+However, users who had already downloaded the app could continue using the services.
+
+"The app was blocked for violation of Play policies - a clarification of our policy was released earlier today ahead of the IPL tournament," Google said in an e-mailed response, adding that only the app availability on Play store was impacted.
+
+Google, in a blog post earlier on Friday, had said it does not allow apps facilitating sports betting and will remove such apps from the Play store.
+
+These policies are in place to protect users from potential harm, it added.
+
+"We don't allow online casinos or support any unregulated gambling apps that facilitate sports betting. This includes if an app leads consumers to an external website that allows them to participate in paid tournaments to win real money or cash prizes, it is a violation of our policies," the blog post said.
+
+Paytm founder Vijay Shekhar Sharma said the company has already removed the scratch cards which offered the cashbacks, complying with Google's concerns.
+
+Stating that Google was not allowing it to acquire new customers by blocking Paytm's promotion, Sharma said India needs support for further growing the startup ecosystem.
+
+"(Platforms like Google) are dominating platforms and with power comes responsibility. I believe that they should be responsible for this country's growth and startup ecosystem... India's ecosystem needs support, not stifling of innovation," he told news channel CNBC-TV18.
+
+A Paytm spokesperson said the company had recently launched the 'Paytm Cricket League' on its consumer app for users to engage in their passion of cricket and get cashbacks.
+
+"The game allows users to get player stickers after each transaction, collect them and get Paytm Cashback. Cashback is legal in India and we strictly follow all rules and laws of the land.
+
+"Unfortunately, Google believes this to be a violation of its policies and has unlisted the Paytm Android app from the Play Store," the spokesperson said.
+
+The spokesperson added that the cashback feature has been removed and confirmed that the app has been restored on the Play store.
+
+Google, in its blog post, had said that when an app violates its policies, it notifies the developer of the violation and removes the application from Google Play until the developer brings it into compliance.
+
+"And in the case where there are repeated policy violations, we may take more serious action which may include terminating Google Play Developer accounts.
+
+"Our policies are applied and enforced on all developers consistently," the blog post by Android Security and Privacy Vice President Product Suzanne Frey said.
+
+There is often a surge in launches of such apps before major sporting tournaments like the IPL.
+
+The latest season of the Indian Premier League is scheduled to start from September 19 in the United Arab Emirates.
+
+Meanwhile, Sonam Chandwani, Managing Partner at KS Legal & Associates, said, "Enforcement of compliance with Google's policies one day before IPL is scheduled to kickstart, is a preemptive attempt by Google to reinstate and remind developers of its stringent gambling policies."
+
+She said in India, legislation puts a blanket ban on sports betting but fantasy sports is not illegal in most states.
+
+"However, Google's policies will have an over-arching implication on apps in its Play Store.
+
+"An undetermined implication would be the compliance of its policies by sports fantasy apps like Dream 11 and MPL that are not directly available on the Google Play Store platform but feature in advertisements and inducing similar effect on its user, eventually leading to a violation of its gambling policies," she noted.
+
+In a statement, the Federation of Indian Fantasy Sports said it had sought clarity from Google to ensure a level-playing field for all fantasy sports apps.
+
+FIFS also said it has never asked for any company, such as MPL or Paytm, to have any negative repercussions whatsoever.
+
+"We are here to protect all our members no matter their business size and treat all members/non-members the same.
+
+"In the past, FanCode and SportsTiger, sister brands of Dream11 and MyTeam11 respectively, were removed from the Google Play Store for violation of Google Play Store's policy as they were promoting their Fantasy Sports Apps," it added.
